@@ -1,0 +1,25 @@
+# Ignore temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Keep all project files
+!*.py
+!*.html
+!*.json
+!*.bat
+!*.md
+!*.csv
